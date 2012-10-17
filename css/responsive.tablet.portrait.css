@@ -1,0 +1,91 @@
+#header-wrapper div#branding {
+  float: none;
+  margin: auto;
+  text-align: center;
+}
+
+#header-wrapper div.region-header {
+  display: table;
+  float: none;
+  margin: 10px auto 0;
+  text-align: center;
+  width: auto;
+}
+
+#header-wrapper div.region-header .block {
+  clear: none;
+  display: inline;
+  margin: auto;
+  padding: 0 0 15px !important;
+  text-align: left;
+  width: auto;
+}
+
+#header-wrapper div.region-header .block-inner {
+  margin: 0 20px;
+}
+
+#header-wrapper div#logo,
+#header-wrapper h1#site-name,
+#header-wrapper h2#site-slogan {
+  float: none;
+  margin: 0;
+  padding: 0 0 6px;
+  text-align: center;
+}
+
+.hl-r #logo {
+  padding: 0 3px 7px 10px;
+}
+
+.hl-l #logo {
+  padding: 0 10px 7px 3px;
+}
+
+#site-name {
+  font-size: 1.8em;
+}
+
+#menu-bar .block {
+  clear: both;
+  float: none;
+}
+
+#menu-bar .menu-wrapper > ul > li {
+  width: 49%;
+  float: left;
+  margin-bottom: 1px;
+}
+
+
+#secondary-content-wrapper .block-content-inner  .image-right,
+#secondary-content-wrapper .block-content-inner  .image-left,
+#secondary-content-wrapper .block-content-inner  .field-type-image,
+#secondary-content-wrapper .block-content-inner  figure  {
+  max-width: 50%;
+}
+
+#secondary-content-wrapper .block-content-inner img {
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

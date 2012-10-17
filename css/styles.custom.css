@@ -1,0 +1,19 @@
+/**
+ * AT Biz Styles
+ * NOTICE: This is a commercial Drupal theme. Elements of this theme including this file
+ * are licensed under a standard commercial license which does not permit redistribution. 
+ */
+
+/** 
+ * Use this file to provide overrides to the main styles. This file always loads last
+ * so you can override anything in the other style-sheets.
+ */
+
+/**
+ * Special ID added to the slideshow Panel Pane in the Panels example page.
+ * The extra padding allows for next and previous controls if they are enabled
+ * in Flexslider (using the default option set).
+ */
+#slideshow.pane-block .block-content {
+  padding: 15px 30px 5px;
+}

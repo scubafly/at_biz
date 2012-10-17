@@ -1,0 +1,114 @@
+#header-wrapper div#branding {
+  float: none;
+  margin: auto;
+  text-align: center; 
+}
+
+#header-wrapper div.region-header {
+  display: table;
+  float: none;
+  margin: 15px auto 0;
+  text-align: center;
+  width: auto;
+}
+
+#header-wrapper div.region-header .block {
+  clear: none;
+  display: inline;
+  margin: auto;
+  padding: 0 0 10px !important;
+  text-align: left;
+  width: auto;
+}
+
+#header-wrapper div.region-header .block-inner {
+  margin: 0 20px;
+}
+
+#header-wrapper div#logo,
+#header-wrapper h1#site-name,
+#header-wrapper h2#site-slogan {
+  float: none;
+  margin: 0;
+  padding: 0 0 6px;
+  text-align: center;
+}
+
+#menu-bar-wrapper,
+#menu-bar {
+  min-height: 3em;
+  height: auto;
+}
+
+#menu-bar {
+  padding: 0 2px;
+}
+
+#menu-bar .block {
+  clear: both;
+  float: none;
+}
+
+#menu-bar .menu-wrapper ul ul {
+  position: relative;
+  top: 0;
+  width: 100% !important;
+}
+
+#menu-bar .menu-wrapper > ul,
+#menu-bar .menu-wrapper > ul > li {
+  display: block;
+  float: none;
+  margin: 0;
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+
+#menu-bar .menu-wrapper ul > li > a {
+  padding: 6px 10px 8px;
+}
+
+#menu-bar .menu-wrapper ul ul li {
+  border-bottom: 1px solid #fff;
+  float: none !important;
+}
+
+#menu-bar .menu-wrapper ul ul li.first {
+  border-top: 1px solid #fff;
+}
+
+#menu-bar .sf-menu {
+  height: auto;
+  padding: 2px 0;
+}
+
+.region-header .block {
+  overflow: hidden;
+}
+
+.article-title {
+  font-size: 1.5em;
+}
+
+#secondary-content-wrapper .block-content-inner {
+  padding: 0;
+}
+
+#secondary-content-wrapper .block-content-inner  img {
+  max-width: 280px;
+  display: block;
+  margin: 10px auto;
+}
+
+#secondary-content-wrapper .block-content-inner .views-row {
+  max-width: 90%;
+  margin: auto;
+}
+
+#secondary-content-wrapper .block-content-inner .image-right,
+#secondary-content-wrapper .block-content-inner .image-left,
+.field-type-image {
+  float: none !important;
+  display: block !important;
+  margin: auto !important;
+  text-align: center !important;
+}
